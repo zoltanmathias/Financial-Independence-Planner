@@ -1,0 +1,41 @@
+.jumbotron{
+	background-image: url("images/bluesky.png");
+	color: white;
+	font-family: 'Unlock', cursive;
+	border: 10px solid black;
+	height: 200px;
+}
+#hr{
+	border: 1px solid #262626;
+}
+.quote{
+	background-color: #006699;
+	color: white;
+	float: right;
+	margin-left: 5%;
+	margin-bottom: 1%;
+	padding: 10px 10px;
+	border: 2px solid black;
+}
+.container-fluid{
+	background-color: #cceeff;
+	padding-bottom: 10px;
+	border: 5px solid black;
+}
+#foot{
+	color: #00e6e6;
+}
+#inst{
+	color: #009900;
+	text-decoration: bold;
+	font-size: 1.20em;
+}
+#magicno{
+	text-align: center;
+}
+.magic{
+	color: #009900;
+}
+#goal{
+	background-color: #e6ffff;
+}
